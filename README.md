@@ -1,31 +1,41 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--           EBEN V SAJI — PROFESSIONAL GITHUB PROFILE          -->
-<!--              Cybersecurity Researcher | Web App Pentester     -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--         EBEN V SAJI · GITHUB PROFILE README · v3.0               -->
+<!--         Cybersecurity Researcher | Web App Pentester              -->
+<!--         CERT-In Hall of Fame | Offenso Alpha Team                 -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ANIMATED GLITCH HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,70:001a00,100:00ff41&height=250&section=header&text=Eben%20V%20Saji&fontSize=80&fontColor=00FF41&animation=glitch&fontAlignY=55&desc=%5B%20Cybersecurity%20Researcher%20%7C%20Web%20App%20Pentester%20%7C%20CERT-In%20Hall%20of%20Fame%20%5D&descAlignY=78&descSize=15&descColor=39ff14&stroke=00ff41&strokeWidth=2"/>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<!-- TERMINAL TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%5BROOT%40ebensec+~%5D%24+whoami+--verbose;%E2%9E%A4+Ethical+Hacker+%7C+Bug+Hunter+%7C+Exploit+Developer;%5BROOT%40ebensec+~%5D%24+motto.sh;%E2%9E%A4+%22Securing+the+Web%2C+One+Injection+at+a+Time.%22)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,70:001a00,100:00ff41&height=280&section=header&text=EBEN%20V%20SAJI&fontSize=90&fontColor=00FF41&animation=glitch&fontAlignY=52&desc=%5B%20Cybersecurity%20Researcher%20%7C%20Web%20App%20Pentester%20%7C%20CERT-In%20Hall%20of%20Fame%20%5D&descAlignY=76&descSize=16&descColor=39ff14&stroke=00ff41&strokeWidth=2"/>
 
-<br/>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  TERMINAL TYPING LINE                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<!-- DYNAMIC STATUS BADGES ROW 1 -->
-![](https://img.shields.io/badge/CLEARANCE-CERT--IN_HALL_OF_FAME-FFD700?style=for-the-badge&labelColor=0d0d0d&logo=gov.uk&logoColor=FFD700)
-![](https://img.shields.io/badge/UNIT-OFFENSO_ALPHA_TEAM-ff003c?style=for-the-badge&labelColor=0d0d0d&logo=hackthebox&logoColor=ff003c)
-![](https://img.shields.io/badge/STATUS-HUNTING_BUGS-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41)
-
-<!-- DYNAMIC STATUS BADGES ROW 2 -->
-![](https://img.shields.io/badge/BASE-KERALA,_INDIA-FF9933?style=for-the-badge&labelColor=0d0d0d&logo=googlemaps&logoColor=FF9933)
-![](https://img.shields.io/badge/OS-KALI_LINUX_2024-268BEE?style=for-the-badge&labelColor=0d0d0d&logo=kalilinux&logoColor=268BEE)
-![](https://img.shields.io/badge/DOMAIN-ebensec.com-00b4ff?style=for-the-badge&labelColor=0d0d0d&logo=firefoxbrowser&logoColor=00b4ff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%5BROOT%40ebensec+~%5D%24+cat+identity.txt;%E2%9E%A4+Ethical+Hacker+%7C+CERT-In+HoF+%7C+Offenso+Alpha+Team;%5BROOT%40ebensec+~%5D%24+cat+motto.txt;%E2%9E%A4+%22Securing+the+Web%2C+One+Injection+at+a+Time.%22)](https://git.io/typing-svg)
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    STATUS BADGES ROW 1                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+![](https://img.shields.io/badge/🏅_CERT--IN-HALL_OF_FAME_2026-FFD700?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/⚡_UNIT-OFFENSO_ALPHA_TEAM-ff003c?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/🎯_STATUS-ACTIVELY_HUNTING-00ff41?style=for-the-badge&labelColor=0d0d0d)
+
+<!-- STATUS BADGES ROW 2 -->
+
+![](https://img.shields.io/badge/📍_BASE-KERALA,_INDIA-FF9933?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/💻_OS-KALI_LINUX-268BEE?style=for-the-badge&labelColor=0d0d0d&logo=kalilinux&logoColor=268BEE)
+![](https://img.shields.io/badge/🌐_WEB-ebensec.com-00b4ff?style=for-the-badge&labelColor=0d0d0d)
 
 <!-- VISITOR + FOLLOW BADGES -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ebenvsaji&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&base=1337)
 [![GitHub followers](https://img.shields.io/github/followers/ebenvsaji?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&label=FOLLOWERS)](https://github.com/ebenvsaji)
 
@@ -33,10 +43,223 @@
 
 ---
 
-<!-- ═══════════════════ SYSTEM PROFILE ═══════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  SYSTEM PROFILE                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=ebenvsaji&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=⚡+Operator+Stats&cache_seconds=1800"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ebenvsaji&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=⚡+Operator+Stats&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
+### `> ./whoami --verbose`
+
+```bash
+┌──[ROOT@ebensec]─[~]
+│
+├── Name      : Eben V Saji
+├── Role      : Cybersecurity Researcher & BCA Student
+├── Location  : Kerala, India
+├── Education : BCA Cyber Security — FYUGP, Kerala University
+├── Intern    : Offenso Hackers Academy (Alpha Team)
+├── HoF       : CERT-In Hall of Fame — March 2026
+├── Focus     : SQLi · OSINT · Network Enumeration
+├── Website   : https://ebensec.com
+└── Status    : [ ONLINE · ACTIVELY REPORTING BUGS ]
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  ACHIEVEMENT SHOWCASE                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> cat /etc/achievements.log`
+
+| 🏅 CERT-In Hall of Fame | ⚔️ Offenso Alpha Team | 🎯 20 THM Rooms | 🎓 BCA Cyber Security |
+|:---:|:---:|:---:|:---:|
+| March 2026 · SQL Injection | Cyber Security Intern | TryHackMe Completed | FYUGP · Kerala University |
+| Government of India | Jan 2026 — Present | OSINT · Pentest · Network | First Year · 2025–2026 |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    SKILL MATRIX                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `> cat skill_matrix.txt`
+
+<div align="center">
+
+**⚔️ OFFENSIVE TOOLS**
+
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
+![Ghauri](https://img.shields.io/badge/Ghauri-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
+![Nmap](https://img.shields.io/badge/Nmap-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
+![SQLMap](https://img.shields.io/badge/SQLMap-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
+![Nikto](https://img.shields.io/badge/Nikto-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Metasploit](https://img.shields.io/badge/Metasploit-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Hydra](https://img.shields.io/badge/Hydra-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Gobuster](https://img.shields.io/badge/Gobuster-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+
+**🔍 RECON & OSINT**
+
+![OSINT](https://img.shields.io/badge/OSINT-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
+![Maltego](https://img.shields.io/badge/Maltego-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Shodan](https://img.shields.io/badge/Shodan-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![Wireshark](https://img.shields.io/badge/Wireshark-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+![FFUF](https://img.shields.io/badge/FFUF-Intermediate-00b4ff?style=flat-square&labelColor=0d0d0d)
+
+**💻 PROGRAMMING & PLATFORMS**
+
+![Python](https://img.shields.io/badge/Python-Intermediate-FFD700?style=flat-square&labelColor=0d0d0d&logo=python&logoColor=FFD700)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-FFD700?style=flat-square&labelColor=0d0d0d&logo=gnubash&logoColor=FFD700)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Primary_OS-268BEE?style=flat-square&labelColor=0d0d0d&logo=kalilinux&logoColor=268BEE)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-20_Rooms-ff003c?style=flat-square&labelColor=0d0d0d&logo=tryhackme&logoColor=ff003c)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS TRIO                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> ./fetch_stats.sh`
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebenvsaji&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=GitHub+Stats&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenvsaji&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&custom_title=Top+Languages"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenvsaji&theme=matrix&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff003c&currStreakLabel=00ff41&sideLabels=00ff41&dates=6aaa6a&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               TRYHACKME PROGRESS TABLE                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> cat tryhackme/progress.txt`
+
+</div>
+
+| # | Room | Category | Difficulty | Status |
+|:---:|------|----------|:----------:|:------:|
+| 01 | OhSINT | OSINT | 🟢 Easy | ✅ |
+| 02 | Sakura Room | OSINT | 🟢 Easy | ✅ |
+| 03 | Bounty Hacker | CTF | 🟢 Easy | ✅ |
+| 04 | Brooklyn Nine Nine | CTF | 🟢 Easy | ✅ |
+| 05 | Brute It | CTF | 🟢 Easy | ✅ |
+| 06 | Crack the Hash | Cryptography | 🟢 Easy | ✅ |
+| 07 | Nmap | Network | 🟢 Easy | ✅ |
+| 08 | Nmap Live Host Discovery | Network | 🟡 Medium | ✅ |
+| 09 | Networking Concepts | Network | 🟢 Easy | ✅ |
+| 10 | What is Networking? | Network | 🟢 Easy | ✅ |
+| 11 | Metasploit: Introduction | Pentest | 🟢 Easy | ✅ |
+| 12 | Pentesting Fundamentals | Pentest | 🟢 Easy | ✅ |
+| 13 | Offensive Security Intro | Pentest | 🟢 Easy | ✅ |
+| 14 | Linux Fundamentals Pt.1 | Linux | 🟢 Easy | ✅ |
+| 15 | Junior Security Analyst | SOC | 🟢 Easy | ✅ |
+| 16 | Defensive Security Intro | Blue Team | 🟢 Easy | ✅ |
+| 17 | Search Skills | OSINT | 🟢 Easy | ✅ |
+| 18 | Careers in Cyber | Overview | 🟢 Easy | ✅ |
+| 19 | Cryptography Basics | Crypto | 🟢 Easy | ✅ |
+| 20 | Learning Cyber Security | Overview | 🟢 Easy | ✅ |
+
+<div align="center">
+
+**`Total: 20/20 ✅ · Easy: 19 · Medium: 1 · Challenges: 9 · Walkthroughs: 11`**
+
+[![TryHackMe](https://img.shields.io/badge/View_Full_Profile-TryHackMe-ff003c?style=for-the-badge&labelColor=0d0d0d&logo=tryhackme&logoColor=ff003c)](https://tryhackme.com/p/ebensaji715)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              CERT-IN HALL OF FAME SPOTLIGHT               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> cat /disclosures/cert_in_hof.txt`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║            CERT-In HALL OF FAME — MARCH 2026                    ║
+║         Indian Computer Emergency Response Team                 ║
+║         Ministry of Electronics & IT, Govt. of India           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Researcher  : Eben V Saji                                       ║
+║  Vuln Type   : SQL Injection (High Severity)                     ║
+║  Target      : Government Web Portal                             ║
+║  Status      : PATCHED & VERIFIED ✓                              ║
+║  Recognition : Official HoF Listing — cert-in.org.in            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![CERT-In HoF](https://img.shields.io/badge/🏅_VIEW_CERT--IN_HALL_OF_FAME-OFFICIAL_LISTING-FFD700?style=for-the-badge&labelColor=0d0d0d)](https://www.cert-in.org.in/Hallof_Fame_Mar26.jsp)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               ACTIVITY GRAPH                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> ./activity_monitor.sh --live`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebenvsaji&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ebenvsaji)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CONNECT / CONTACT                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> ./connect --list-all`
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-ebensec.com-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://ebensec.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-eben--v--saji-0077B5?style=for-the-badge&labelColor=0d0d0d&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/eben-v-saji)
+[![TryHackMe](https://img.shields.io/badge/🎯_TRYHACKME-ebensaji715-ff003c?style=for-the-badge&labelColor=0d0d0d&logo=tryhackme&logoColor=ff003c)](https://tryhackme.com/p/ebensaji715)
+[![Email](https://img.shields.io/badge/📧_EMAIL-ebenvsaji.contact-EA4335?style=for-the-badge&labelColor=0d0d0d&logo=gmail&logoColor=EA4335)](mailto:ebenvsaji.contact@gmail.com)
+[![CERT-In](https://img.shields.io/badge/🏅_CERT--IN-Hall_of_Fame-FFD700?style=for-the-badge&labelColor=0d0d0d)](https://www.cert-in.org.in/Hallof_Fame_Mar26.jsp)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=120&section=footer&text=Stay+Ethical+%7C+Hack+Responsibly&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=fadeIn"/>
+
+**`[ EBEN V SAJI · CERT-In HoF · OFFENSO ALPHA · BCA CYBER SECURITY ]`**
+
+</div>
 ## `> ./whoami --full`
 
 ```bash
