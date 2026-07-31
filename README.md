@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:134e4a,100:0f766e&height=200&section=header&text=EBEN%20V%20SAJI&fontSize=54&fontColor=5eead4&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%C2%B7%20Web%20App%20Security%20%C2%B7%20CERT-In%20Hall%20of%20Fame&descAlignY=62&descSize=16&descColor=94a3b8"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=1000&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=Cybersecurity+Student+%C2%B7+CERT-In+Hall+of+Fame;Securing+the+web%2C+one+finding+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=1000&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=ETHICAL+HACKER%C2%B7+CERT-In+Hall+of+Fame;Securing+the+web%2C+one+finding+at+a+time.)](https://git.io/typing-svg)
 
 <br/>
 
