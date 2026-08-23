@@ -42,7 +42,7 @@
 | CERT-In Hall of Fame | Certification | Education |
 |:---:|:---:|:---:|
 | March 2026 · SQL Injection | OCSP Certified | BCA Cyber Security |
-| Government of India | Offenso Hackers Academy | University of Kerala, Yr. 1 |
+| Government of India | Offenso Hackers Academy | University of Kerala, Yr. 2 |
 
 ---
 
@@ -111,19 +111,26 @@ Domain intelligence · subdomain enumeration · SSL inspection · username & ema
 ## `> git log --oneline --experience`
 
 ```diff
-+ MAR 2026                CERT-In Hall of Fame
-                           · Responsibly disclosed a high-severity SQLi
-                           · Affected target: public sector web infrastructure
-                           · Method: manual testing, verified with Ghauri
++ JUL 2026                OCSP Certification
+                          · Offenso Certified Security Professional
+                          · Practical web application penetration testing
 
-+ 2025 → PRESENT          BCA Cyber Security (FYUGP), Year 1
-                           University of Kerala
-                           Coursework: C Programming · E-Commerce · Management
++ MAY 2026                Security Tool Development
+                          · Engineered OsintX (Modular OSINT framework)
+                          · Developed automated Python reconnaissance scripts
+
++ MAR 2026                CERT-In Hall of Fame
+                          · Responsibly disclosed a high-severity SQLi
+                          · Affected target: public sector web infrastructure
+                          · Method: manual testing, verified with Ghauri
+
++ 2025 → PRESENT          BCA Cyber Security (FYUGP)
+                          · University of Kerala (Second Year)
 
 + 2024 → PRESENT          Self-Directed Security Research
-                           · Manual SQL injection & vulnerability testing
-                           · OSINT and network enumeration practice
-                           · 20+ TryHackMe rooms completed
+                          · Manual SQL injection & vulnerability testing
+                          · OSINT and network enumeration practice
+                          · 20+ TryHackMe rooms completed
 ```
 
 ---
